@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="homepage_about_background">#ff607d8b</color>
+    <color name="homepage_accessibility_background">#ffd612ff</color>
+    <color name="homepage_accounts_background">#ffff6eb7</color>
+    <color name="homepage_app_and_notification_background">#ffff7b22</color>
+    <color name="homepage_battery_background">#ff49bc39</color>
+    <color name="homepage_connected_device_background">#ff1840d1</color>
+    <color name="homepage_display_background">#ffffbc00</color>
+    <color name="homepage_generic_icon_background">#ff1a73e8</color>
+    <color name="homepage_location_background">#ff14bcc9</color>
+    <color name="homepage_network_background">#ff9835e5</color>
+    <color name="homepage_privacy_background">#ffff5c5c</color>
+    <color name="homepage_security_background">#ff41d82b</color>
+    <color name="homepage_sound_background">#ff00af5f</color>
+    <color name="homepage_storage_background">#ffcc00cc</color>
+    <color name="homepage_support_background">#ff26459c</color>
+    <color name="homepage_system_background">#ff875cff</color>
+</resources>
